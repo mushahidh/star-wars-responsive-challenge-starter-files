@@ -1,0 +1,31 @@
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+
+.image {
+ width: 100%;
+}
+
+
+
+.orange {
+ 
+ height: 100px;
+}
+header {
+  background-color: #eebb44;
+  margin-bottom: 40px;
+}
+.box{
+  border:1px solid black;
+}
+.content {
+
+  text-align: center;
+}
+
